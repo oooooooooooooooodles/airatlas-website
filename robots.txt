@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oooooooooooooooodles.github.io/airatlas-website/sitemap.xml
