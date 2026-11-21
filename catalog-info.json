@@ -3,5 +3,6 @@
   "record_count": 63079,
   "json_bytes": 77693506,
   "json_sha256": "3c700a21a830fbcfea0c1d5675b7c8e607aa60f81f17595904c46db896f6e156",
-  "zip_bytes": 14686722
+  "zip_bytes": 14686722,
+  "download_url": "https://github.com/oooooooooooooooodles/airatlas-website/releases/download/directory-2026-11-04/stations.json"
 }
